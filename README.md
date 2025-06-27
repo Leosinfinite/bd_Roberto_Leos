@@ -1,2 +1,3 @@
-# bd_Roberto_Leos
-Portafolio de actividades individuales de la materia de base de datos
+**Nombre Completo:** Roberto Leos Peréz
+**Carrera y Semestre:** Sistemas Computacionales Administrativos, 4° Semestre
+**Enlace al repositorio de equipo:** 
